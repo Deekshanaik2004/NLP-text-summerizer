@@ -24,24 +24,24 @@ text_summarization_app/
 
 ## 💻 Installation & Running Instructions
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/text_summarization_app.git
 cd text_summarization_app
-### 2️⃣ Set Up Virtual Environment
+2️⃣ Set Up Virtual Environment
 bash
 Copy
 Edit
 python -m venv venv
 venv\Scripts\activate  # For Windows
 source venv/bin/activate  # For Mac/Linux
-### 3️⃣ Install Dependencies
+3️⃣ Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-### 4️⃣ Run the Application
+4️⃣ Run the Application
 bash
 Copy
 Edit
@@ -57,7 +57,7 @@ For GPT-based summarization, integrating OpenAI API is optional and requires an 
 ✅ Author
 Deeksha Naik
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Deekshanaik2004
 
 
 
