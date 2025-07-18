@@ -25,7 +25,7 @@ NLP
 ## 💻 Installation & Running Instructions
 
 ## 1️ Clone the Repository
-git clone https://github.com/your-username/text_summarization_app.git 
+git clone https://github.com/Deekshanaik2004/text_summarization_app.git 
 cd text_summarization_app
 
 ## 2️⃣ Set Up Virtual Environment
