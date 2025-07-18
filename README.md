@@ -24,7 +24,8 @@ text_summarization_app/
 
 ## 💻 Installation & Running Instructions
 
-1️⃣ Clone the Repository
+
+1️ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/text_summarization_app.git
