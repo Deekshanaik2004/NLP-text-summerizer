@@ -16,8 +16,8 @@ Users can input large text, and the app returns a summarized version using the *
 ---
 
 ## 📂 Project Structure
-text_summarization_app/
-├── summarizer_app.py
+NLP/
+├── text_summerizer.py
 ├── requirements.txt
 ├── README.md
 
@@ -25,7 +25,7 @@ text_summarization_app/
 ## 💻 Installation & Running Instructions
 
 ## 1️ Clone the Repository
-git clone https://github.com/your-username/text_summarization_app.git
+git clone https://github.com/your-username/text_summarization_app.git 
 cd text_summarization_app
 
 ## 2️⃣ Set Up Virtual Environment
@@ -37,15 +37,9 @@ venv\Scripts\activate  # For Windows
 source venv/bin/activate  # For Mac/Linux
 
 ## 3️⃣ Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 
 ## 4️⃣ Run the Application
-bash
-Copy
-Edit
 streamlit run summarizer_app.py
 Open your browser and visit:
 http://localhost:8501
