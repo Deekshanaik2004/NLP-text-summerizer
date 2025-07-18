@@ -16,7 +16,7 @@ Users can input large text, and the app returns a summarized version using the *
 ---
 
 ## 📂 Project Structure
-NLP/
+NLP
 ├── text_summerizer.py
 ├── requirements.txt
 ├── README.md
@@ -29,9 +29,6 @@ git clone https://github.com/your-username/text_summarization_app.git
 cd text_summarization_app
 
 ## 2️⃣ Set Up Virtual Environment
-bash
-Copy
-Edit
 python -m venv venv
 venv\Scripts\activate  # For Windows
 source venv/bin/activate  # For Mac/Linux
